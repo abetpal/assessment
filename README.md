@@ -10,6 +10,7 @@
 │   ├── app.py
 │   └── requirements.txt
 ├── Dockerfile
+├── .dockerignore
 ├── kubernetes
 │   ├── deployment.yaml
 │   └── service.yaml
